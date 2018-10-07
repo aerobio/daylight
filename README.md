@@ -3,7 +3,7 @@
 The EU has recently decided to stop using the infamous "Daylight Savings Time" and, in the near future,
 countries in the EU will no longer change their clocks back and forth every year.
 
-However, each country must choose what time to use from now on. Would citicens prefer "winter time" for the whole year,
+However, each country must choose what time to use from now on. Would citizens prefer "winter time" for the whole year,
 or they would rather choose "summer time"?
 
 I've witnessed lots of discussions dominated by the lack of objectivity, like those who say they enjoy summer time better,
